@@ -1,0 +1,40 @@
+
+        .pinkC{
+            color: hotpink;
+        }
+        .blueC{
+            color: blue;
+        }
+        label , a{
+            color: green;
+        }
+        #one{
+            color: cyan;
+            background-color: black;
+        }
+        p{
+            border: red 4px solid;
+        }
+        .fontOne{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+            font-weight: bold;
+            font-style: oblique;
+            line-height: 3em;
+        }
+        #borderOne{
+            border: solid rgba(54, 139, 189, 0.342) 3px;
+            border-top-right-radius: 4px;
+            background-color: rgb(226, 197, 221);
+        }
+        #borderSec{
+            border-top: solid rgba(85, 63, 83, 0.342) 7px;
+            border-bottom: solid rgba(229, 233, 16, 0.342) 7px;
+            border-top-right-radius: 90px;
+            border-bottom-left-radius: 50px;
+            height: 300px;
+            /* width: 700px; */
+            background-image: url(https://source.unsplash.com/1000x100/weekly?car);
+            /* background-repeat: no-repeat; */
+            background-position: center center;
+        }
